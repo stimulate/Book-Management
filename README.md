@@ -1,7 +1,7 @@
 # Book-Management
 A C# Winform Application for  Book Brokers.
 
-It use the OleDb objects to interact with the MS Access database tables
+It uses the OleDb objects to interact with the MS Access database tables
 It uses programming logic (master-detail relationships in conjunction with ‘for-each’ loops) to create the reports
 
 This is a front end C# Winform Application for dealers in used books. 
