@@ -1,5 +1,5 @@
 
-## This is A C# Winform Application for  Book Brokers.
+## This is a C# Winform Application for  Book Brokers.
 
 #### It uses the OleDb objects to interact with the MS Access database tables
 #### It uses programming logic (master-detail relationships in conjunction with ‘for-each’ loops) to create the reports
@@ -9,3 +9,4 @@
 
 ## For testing:
 ### You can download the file of "BookManagement.exe" to test this program.
+
